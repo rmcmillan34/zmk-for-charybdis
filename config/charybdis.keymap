@@ -8,14 +8,12 @@
     tapping-term-ms = <220>;
     flavor = "tap-preferred";
     quick-tap-ms = <150>;
-    hold-trigger-on-release;
 };
 
 &mt {
     tapping-term-ms = <220>;
     flavor = "tap-preferred";
     quick-tap-ms = <150>;
-    hold-trigger-on-release;
 };
 
 / {
